@@ -18,7 +18,7 @@ git clone [repository-url]
 2. Set up the backend:
 
 ```bash
-cd seaweedfs_practice/back
+cd seaweedfs/back
 npm install
 ```
 
